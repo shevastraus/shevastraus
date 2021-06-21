@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Sheva (pronounced "Sheh-va") and I am a web developer, organiser, creative thinker, and mom.
+
 <!--
 **shevastraus/shevastraus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
