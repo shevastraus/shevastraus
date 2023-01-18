@@ -2,7 +2,9 @@
 
 My name is Sheva (pronounced "Sheh-va"). I am a web developer, organiser, creative thinker, and mom.
 
-I started an intership at Leverage IT on May 9, 2022. As an intern, I push code to Bitbucket on a daily basis, but this isn't reflected in my GitHub account. So you'll have to visualise my contribution calendar as completely full of green squares!
+I have lots of projects in progress that are not quite ready to be shared just yet. Stay tuned!
+
+I worked as an inter at Leverage IT from May to November 2022. As an intern, I push code to Bitbucket on a daily basis, but this isn't reflected in my GitHub account. So you'll have to visualise my contribution calendar as completely full of green squares during this time period!
 
 <!--
 **shevastraus/shevastraus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
